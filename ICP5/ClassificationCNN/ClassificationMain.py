@@ -16,7 +16,7 @@ test_dir = os.path.join(data_dir, 'test')
 IMG_SIZE = 299
 
 #list of categories in array format
-CATEGORIES = ['accordion','airplanes','anchor']
+CATEGORIES = ['brain','butterfly','camera']
 NUM_CATEGORIES = len(CATEGORIES)
 print (NUM_CATEGORIES)
 

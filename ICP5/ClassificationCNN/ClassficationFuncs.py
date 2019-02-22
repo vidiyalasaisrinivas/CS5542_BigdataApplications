@@ -11,9 +11,9 @@ import tensorflow as tf
  am sure there's better way to do this .......'''
 
 def label_img(word_label):
-    if word_label == 'accordion': return [1,0,0,0,0,0,0,0,0,0,0,0]
-    elif word_label == 'airplanes': return [0,1,0,0,0,0,0,0,0,0,0,0]
-    elif word_label == 'anchor': return [0,0,1,0,0,0,0,0,0,0,0,0]
+    if word_label == 'brain': return [1,0,0,0,0,0,0,0,0,0,0,0]
+    elif word_label == 'butterfly': return [0,1,0,0,0,0,0,0,0,0,0,0]
+    elif word_label == 'camera': return [0,0,1,0,0,0,0,0,0,0,0,0]
     # elif word_label == 'Common Chickweed': return [0,0,0,1,0,0,0,0,0,0,0,0]
     # elif word_label == 'Common wheat': return [0,0,0,0,1,0,0,0,0,0,0,0]
     # elif word_label == 'Fat Hen': return [0,0,0,0,0,1,0,0,0,0,0,0]
@@ -84,11 +84,11 @@ def create_test_unlabeled_data(test_dir,IMG_SIZE):
 # return Indexes of the maximal elements of a array
 def label_return(model_out):
     if np.argmax(model_out) == 0:
-        return 'accordion'
+        return 'brain'
     elif np.argmax(model_out) == 1:
-        return 'airplanes'
+        return 'butterfly'
     elif np.argmax(model_out) == 2:
-        return 'anchor'
+        return 'camera'
     # elif np.argmax(model_out) == 3:
     #     return 'Common Chickweed'
     # elif np.argmax(model_out) == 4:
