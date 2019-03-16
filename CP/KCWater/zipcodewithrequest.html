@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Kansas city Water Analysis</title>
+</head>
+<style>
+    a:hover{
+        color: black ;
+
+    }
+</style>
+
+<body background="h1.jpg" data-ng-app="app" ng-controller="MainCtrl" bgcolor="#fff5ee" background="city.jpeg">
+<script src="zipcodewithrequest.js"> </script>
+<div class="container-fluid text-center" >
+    <br>
+    <br>
+    <br>
+    <h1 align="center">Requests Received as per zipcode</h1>
+    <br>
+
+    <div ng-app="app" ng-controller="MainCtrl">
+
+        <h1>zipcode:</h1>
+        <select ng-model="zipcode">
+            <option ng-repeat="x in kcvalue" value="{{x.count_case_id}}">{{x.zip_code}}</option>
+        </select>
+
+        <h1>Requests Received:{{zipcode}}</h1>
+
+        <div class="container-fluid text-center" >
+            <div  ng-init="myVar = 'zip2.html'">
+                <h1> <a ng-href="{{myVar}}">click here to see chart</a></h1>
+            </div>
+        </div>
+    </div>
+
+<!--<img src="flood.jpg" alt="Flood 1" width="500" height="300"> -->
+</body>
+</html>
