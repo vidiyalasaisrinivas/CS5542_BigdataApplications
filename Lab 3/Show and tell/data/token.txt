@@ -1,0 +1,184 @@
+ 000000008881.jpg,Caption:a herd of sheep grazing on a lush green field .
+ 000000008881.jpg,Caption:a herd of sheep grazing on a lush green hillside .
+ 000000008881.jpg,Caption:a herd of sheep standing on top of a lush green field .
+ 000000008881.jpg,Caption:a herd of sheep grazing in a field .
+ 000000009075.jpg,Caption:a herd of sheep grazing on a lush green field .
+ 000000009075.jpg,Caption:a herd of sheep grazing on a lush green hillside .
+ 000000009075.jpg,Caption:a herd of sheep standing on top of a lush green field .
+ 000000009075.jpg,Caption:a herd of sheep standing on top of a grass covered field .
+ 000000009640.jpg,Caption:a flock of birds standing on top of a lush green field .
+ 000000009640.jpg,Caption:a flock of birds sitting on top of a lush green field .
+ 000000009640.jpg,Caption:a flock of birds standing on top of a grass covered field .
+ 000000009640.jpg,Caption:a flock of birds sitting on top of a grass covered field .
+ 000000009709.jpg,Caption:a zebra standing on top of a lush green field .
+ 000000009709.jpg,Caption:a zebra standing on top of a grass covered field .
+ 000000009709.jpg,Caption:a zebra standing on top of a dry grass field .
+ 000000009709.jpg,Caption:a zebra is standing in a grassy field .
+ 000000010276.jpg,Caption:a couple of dogs that are standing in the grass .
+ 000000010276.jpg,Caption:a couple of dogs that are in the grass .
+ 000000010276.jpg,Caption:a couple of dogs that are standing in the dirt .
+ 000000010276.jpg,Caption:a couple of dogs that are running around
+ 000000011926.jpg,Caption:a herd of zebra standing on top of a lush green field .
+ 000000011926.jpg,Caption:a herd of zebra standing on top of a grass covered field .
+ 000000011926.jpg,Caption:a herd of zebra walking across a lush green field .
+ 000000011926.jpg,Caption:a herd of zebra standing next to each other on a field .
+ 000000012021.jpg,Caption:a herd of cattle grazing on a lush green field .
+ 000000012021.jpg,Caption:a herd of cattle grazing on a lush green hillside .
+ 000000012021.jpg,Caption:a herd of cattle standing on top of a lush green field .
+ 000000012021.jpg,Caption:a group of cows grazing in a field .
+ 000000012475.jpg,Caption:a couple of cows are standing in a field
+ 000000012475.jpg,Caption:a herd of cattle grazing on a lush green field .
+ 000000012475.jpg,Caption:a couple of cows standing in a field .
+ 000000012475.jpg,Caption:a couple of cows standing on top of a grass covered field .
+ 000000013325.jpg,Caption:a red fire hydrant sitting in the middle of a field .
+ 000000013325.jpg,Caption:a red fire hydrant sitting in the middle of a park .
+ 000000013325.jpg,Caption:a red fire hydrant sitting in the middle of a lush green field .
+ 000000013325.jpg,Caption:a red and white fire hydrant sitting in the middle of a field .
+ 000000013356.jpg,Caption:a herd of cattle grazing on a lush green field .
+ 000000013356.jpg,Caption:a herd of elephants walking across a lush green field .
+ 000000013356.jpg,Caption:a herd of animals grazing on a lush green field .
+ 000000013356.jpg,Caption:a herd of elephants walking across a grass covered field .
+ 000000013900.jpg,Caption:a couple of sheep standing on top of a lush green field .
+ 000000013900.jpg,Caption:a couple of sheep standing on top of a grass covered field .
+ 000000013900.jpg,Caption:two sheep standing next to each other on a lush green field .
+ 000000013900.jpg,Caption:a couple of sheep standing on a lush green field .
+ 000000014430.jpg,Caption:a brown cow standing on top of a lush green field .
+ 000000014430.jpg,Caption:a brown cow standing on top of a grass covered field .
+ 000000014430.jpg,Caption:a brown cow standing in the middle of a field .
+ 000000014430.jpg,Caption:a brown and white cow standing in a field .
+ 000000014998.jpg,Caption:a couple of zebra standing next to each other .
+ 000000014998.jpg,Caption:a couple of zebra standing next to each other on a field .
+ 000000014998.jpg,Caption:a couple of zebra standing on top of a lush green field .
+ 000000014998.jpg,Caption:a couple of zebra standing on top of a grass covered field .
+ 000000015472.jpg,Caption:a group of men on a field playing baseball .
+ 000000015472.jpg,Caption:a group of baseball players standing on top of a field .
+ 000000015472.jpg,Caption:a group of baseball players playing a game of baseball .
+ 000000015472.jpg,Caption:a group of baseball players standing on a field .
+ 000000015595.jpg,Caption:a zebra standing in a fenced in area .
+ 000000015595.jpg,Caption:a zebra standing next to a wooden fence .
+ 000000015595.jpg,Caption:a zebra standing in a fenced in area
+ 000000015595.jpg,Caption:a zebra standing next to a tree in a field .
+ 000000015876.jpg,Caption:a train traveling down tracks next to a forest .
+ 000000015876.jpg,Caption:a train traveling down train tracks next to a forest .
+ 000000015876.jpg,Caption:a train traveling down train tracks near a forest .
+ 000000015876.jpg,Caption:a train traveling down tracks next to a lush green field .
+ 000000016520.jpg,Caption:a white sheep laying on top of a lush green field .
+ 000000016520.jpg,Caption:a white sheep laying on top of a grass covered field .
+ 000000016520.jpg,Caption:a white sheep laying on top of a green field .
+ 000000016520.jpg,Caption:a white sheep laying on a lush green field .
+ 000000017320.jpg,Caption:a dog with a tennis racket in its mouth .
+ 000000017320.jpg,Caption:a dog is playing with a tennis ball .
+ 000000017320.jpg,Caption:a black and white dog laying on a tennis court .
+ 000000017320.jpg,Caption:a dog with a tennis ball in its mouth .
+ 000000018886.jpg,Caption:two giraffes are standing in a grassy field .
+ 000000018886.jpg,Caption:a group of giraffes standing in a field .
+ 000000018886.jpg,Caption:two giraffes are standing in a field of tall grass .
+ 000000018886.jpg,Caption:two giraffes are standing in a grassy field
+ 000000019528.jpg,Caption:a brown dog laying on top of a wooden floor .
+ 000000019528.jpg,Caption:a brown dog laying on a wooden floor .
+ 000000019528.jpg,Caption:a brown dog laying on top of a rug .
+ 000000019528.jpg,Caption:a brown dog laying on top of a wooden bench .
+ 000000019739.jpg,Caption:a herd of cattle grazing on a lush green field .
+ 000000019739.jpg,Caption:a herd of cattle grazing on a lush green hillside .
+ 000000019739.jpg,Caption:a herd of horses grazing on a lush green field .
+ 000000019739.jpg,Caption:a herd of cattle standing on top of a lush green field .
+ 000000019755.jpg,Caption:a couple of cows are standing in a field
+ 000000019755.jpg,Caption:a couple of cows standing in a field .
+ 000000019755.jpg,Caption:a brown and white cow standing in a field .
+ 000000019755.jpg,Caption:a brown and white cow standing in a field of grass .
+ 000000020013.jpg,Caption:a herd of cattle grazing on a lush green field .
+ 000000020013.jpg,Caption:a herd of sheep grazing on a lush green field .
+ 000000020013.jpg,Caption:a herd of sheep standing on top of a lush green field .
+ 000000020013.jpg,Caption:a herd of sheep standing on top of a grass covered field .
+ 000000021048.jpg,Caption:a dog running with a frisbee in its mouth .
+ 000000021048.jpg,Caption:a dog running with a frisbee in its mouth
+ 000000021048.jpg,Caption:a dog is playing with a frisbee in the grass .
+ 000000021048.jpg,Caption:a dog is playing with a frisbee in its mouth .
+ 000000021364.jpg,Caption:a grill with hot dogs and fries on it .
+ 000000021364.jpg,Caption:a grill with hot dogs and fries on it
+ 000000021364.jpg,Caption:a bunch of hot dogs sitting on top of a grill .
+ 000000021364.jpg,Caption:a bunch of hot dogs sitting on a grill .
+ 000000022223.jpg,Caption:a brown and white cow standing in a field .
+ 000000022223.jpg,Caption:a brown and white cow standing in a grassy field .
+ 000000022223.jpg,Caption:a brown and white cow standing in the grass .
+ 000000022223.jpg,Caption:a brown and white cow standing in a field of grass .
+ 000000022729.jpg,Caption:a couple of horses standing in a field .
+ 000000022729.jpg,Caption:a couple of horses standing on top of a lush green field .
+ 000000022729.jpg,Caption:a couple of horses standing on top of a grass covered field .
+ 000000022729.jpg,Caption:a couple of horses standing in a grass field .
+ 000000022928.jpg,Caption:a brown and white dog and a brown dog
+ 000000022928.jpg,Caption:a brown and white dog laying on a couch .
+ 000000022928.jpg,Caption:a brown and white dog and a brown and white dog
+ 000000022928.jpg,Caption:a dog and a dog are sitting on a couch .
+ 000000024351.jpg,Caption:a brown bear walking across a lush green field .
+ 000000024351.jpg,Caption:a brown bear walking across a grass covered field .
+ 000000024351.jpg,Caption:a brown bear walking through a lush green field .
+ 000000024351.jpg,Caption:a brown bear walking through a lush green forest .
+ 000000024762.jpg,Caption:a couple of dogs laying on top of a bed .
+ 000000024762.jpg,Caption:a couple of dogs laying on top of a couch .
+ 000000024762.jpg,Caption:a dog laying on a bed with a stuffed animal .
+ 000000024762.jpg,Caption:a dog laying on a bed with a blanket
+ 000000025854.jpg,Caption:a dog is looking out of a window .
+ 000000025854.jpg,Caption:a dog is looking out of a window
+ 000000025854.jpg,Caption:a dog looking out a window at a dog .
+ 000000025854.jpg,Caption:a dog looking out a window at a dog
+ 000000028263.jpg,Caption:a slice of pizza sitting on top of a white plate .
+ 000000028263.jpg,Caption:a slice of pizza on a white plate .
+ 000000028263.jpg,Caption:a slice of pizza on a white plate
+ 000000028263.jpg,Caption:a plate with a slice of pizza on it
+ 000000028878.jpg,Caption:a dog sitting on the floor watching television .
+ 000000028878.jpg,Caption:a dog sitting on the floor watching television
+ 000000028878.jpg,Caption:a dog sitting on the floor watching a television .
+ 000000028878.jpg,Caption:a dog sitting on the floor watching a tv .
+ 000000029189.jpg,Caption:a small dog is standing on a skateboard .
+ 000000029189.jpg,Caption:a small dog is standing on a skateboard
+ 000000029189.jpg,Caption:a dog standing on a skateboard in a room .
+ 000000029189.jpg,Caption:a small dog is standing on a leash
+ 000000029509.jpg,Caption:a dog running with a frisbee in its mouth .
+ 000000029509.jpg,Caption:a dog running with a frisbee in its mouth
+ 000000029509.jpg,Caption:a dog with a frisbee in its mouth .
+ 000000029509.jpg,Caption:a dog is playing with a frisbee in the grass .
+ 000000034013.jpg,Caption:a couple of dogs that are standing in the grass .
+ 000000034013.jpg,Caption:two dogs playing with a frisbee in the grass .
+ 000000034013.jpg,Caption:a couple of dogs are playing with a frisbee
+ 000000034013.jpg,Caption:a couple of dogs are playing with a frisbee .
+ 000000034223.jpg,Caption:a man holding a tennis racquet on a tennis court .
+ 000000034223.jpg,Caption:a man holding a tennis racquet on top of a tennis court .
+ 000000034223.jpg,Caption:a group of people standing on top of a tennis court .
+ 000000034223.jpg,Caption:a group of people standing on a tennis court holding racquets .
+ 000000037222.jpg,Caption:a woman holding an umbrella in the rain .
+ 000000037222.jpg,Caption:a woman holding an umbrella over her head .
+ 000000037222.jpg,Caption:a woman holding an umbrella in the rain
+ 000000037222.jpg,Caption:a woman holding an umbrella over her head
+ 000000042519.jpg,Caption:a close up of a plate of food on a stove
+ 000000042519.jpg,Caption:a loaf of bread sitting on top of a stove .
+ 000000042519.jpg,Caption:a loaf of bread sitting on top of a pan .
+ 000000042519.jpg,Caption:a loaf of bread sitting on top of a stove top .
+ 000000059738.jpg,Caption:a close up of a sandwich on a plate
+ 000000059738.jpg,Caption:a close up of a sandwich on a table
+ 000000059738.jpg,Caption:a close up of a plate of food with a sandwich
+ 000000059738.jpg,Caption:a close up of a person holding a sandwich
+ 000000070479.jpg,Caption:a close up of a plate of food with a sandwich
+ 000000070479.jpg,Caption:a close up of a plate of food on a table
+ 000000070479.jpg,Caption:a white plate topped with a sandwich and a salad .
+ 000000070479.jpg,Caption:a close up of a plate of food
+ 000000080386.jpg,Caption:a conveyor belt filled with lots of donuts .
+ 000000080386.jpg,Caption:a conveyor belt filled with donuts in a kitchen .
+ 000000080386.jpg,Caption:a conveyor belt filled with donuts and donuts .
+ 000000080386.jpg,Caption:a conveyor belt topped with donuts and donuts .
+ 000000148516.jpg,Caption:a grill that has some hot dogs on it
+ 000000148516.jpg,Caption:a grill that has some hot dogs in it
+ 000000148516.jpg,Caption:a grill that has a bunch of hot dogs on it
+ 000000148516.jpg,Caption:a grill that has some hot dogs on it .
+ 000000182602.jpg,Caption:a bird sitting on top of a wooden bench .
+ 000000182602.jpg,Caption:a bird sitting on top of a wooden post .
+ 000000182602.jpg,Caption:a bird sitting on top of a bench .
+ 000000182602.jpg,Caption:a bird sitting on top of a piece of wood .
+ 000000226966.jpg,Caption:a close up of a sandwich on a plate
+ 000000226966.jpg,Caption:a close up of a plate of food with a sandwich
+ 000000226966.jpg,Caption:a close up of a plate with a sandwich
+ 000000226966.jpg,Caption:a close up of a plate of food
+ 000000284008.jpg,Caption:a plate of food and a drink on a table .
+ 000000284008.jpg,Caption:a slice of pizza sitting on top of a white plate .
+ 000000284008.jpg,Caption:a plate of food and a drink on a table
+ 000000284008.jpg,Caption:a slice of pizza on a plate next to a cup of coffee .
